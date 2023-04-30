@@ -1,0 +1,47 @@
+.corpo1 {
+	background-image: linear-gradient(90deg, red, deeppink);
+	
+}
+
+.login {
+	background-color: rgba(0, 0, 0, 0.8);
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	padding: 80px;
+	border-radius: 15px;
+	color: white;
+	font-family: Helvetica;
+	
+}
+
+.usuario {
+	padding: 10px;
+	border-radius: 10px;
+	border-color: lime;
+	
+}
+
+.senha {
+	padding: 10px;
+	border-radius: 10px;
+	border-color: lime;
+}
+
+.entrar {
+	padding: 8px;
+	border-radius: 10px;
+	background-color: DodgerBlue;
+	border-color: DodgerBlue;
+	color: white;
+	
+}
+
+
+.entrar a {
+	text-decoration: none;
+	color: white;
+	
+	
+}

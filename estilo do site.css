@@ -1,0 +1,123 @@
+.corpo {
+	background-image: linear-gradient(90deg, red, deeppink);
+}
+
+
+
+.titulo {
+	background-color: #FF00FF;
+	font-family: Helvetica;
+    text-align: center;
+	font-size: 70px;
+	border-bottom: 3px solid MediumVioletRed;
+	padding: 5px;
+	color: white;
+	position: static;
+	
+}
+
+
+.sub {
+	background-color: #FF00FF;
+	font-family: Helvetica;
+	text-align: center;
+	font-size: 20px;
+	color: white;
+	position: top;
+	border-bottom: 2px solid 	#800080;
+    
+}
+
+.fotocomeco {
+   box-shadow: 0px 0px 20px skyblue;
+   
+}
+
+#historia {
+	background-color: #FF00FF;
+	border-bottom: 2px solid 	#800080;
+	font-family: Helvetica;
+	color: white;
+	text-align: center;
+	
+}
+
+.primeira-parte {
+	color: white;
+	font-family: Helvetica;
+	font-size: 18px;
+}
+
+.primeira-parte2 {
+	color: white;
+	font-family: Helvetica;
+	font-size: 18px;
+}
+
+.foto2 {
+	box-shadow: 0px 0px 20px skyblue;
+}
+
+.finalparte1 {
+	font-family:Helvetica;
+	color: white;
+	font-size: 18px;
+}
+
+#historia2 {
+	background-color: #FF00FF;
+	border-bottom: 2px solid 	#800080;
+	font-family: Helvetica;
+	color: white;
+	text-align: center;
+}
+
+.segunda-parte {
+	color: white;
+	font-family: Helvetica;
+	font-size: 18px;
+}
+
+.foto3 {
+	box-shadow: 0px 0px 20px skyblue;
+}
+
+
+#historia3 {
+	background-color: #FF00FF;
+	border-bottom: 2px solid 	#800080;
+	font-family: Helvetica;
+	color: white;
+	text-align: center;
+}
+
+
+.terceira-parte {
+	color: white;
+	font-family: Helvetica;
+	font-size: 18px;
+}
+
+#end {
+	background-color: #FF00FF;
+	border-bottom: 2px solid 	#800080;
+	font-family: Helvetica;
+	color: white;
+	text-align: center;
+}
+
+.foto4 {
+	box-shadow: 0px 0px 20px skyblue;
+}
+
+.parte-final {
+	color: white;
+	font-family: Helvetica;
+	font-size: 18px;
+}
+
+.meu {
+	color: white;
+	font-family: monospace;
+	font-size: 18px;
+}
